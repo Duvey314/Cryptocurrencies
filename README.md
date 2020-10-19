@@ -43,5 +43,14 @@ After this preprocessing I performed a dimension reducion using the PCA algorith
 
 To select the number of clusters I plotted the elbow curve.
 
+![Elbow Curve](https://github.com/Duvey314/Cryptocurrencies/blob/master/Resources/Elbow%20Curve.PNG)
+
+From this I selected 5 clusters.
+
 ### Results
 
+Here you can see the clusters created using 5 clusters.
+
+![Clusters](https://github.com/Duvey314/Cryptocurrencies/blob/master/Resources/Groups.PNG)
+
+The outlier (purple plus) is the bittorrent crypto. This currency has an order of magnitude more coins and thus is unlike any other currency.
